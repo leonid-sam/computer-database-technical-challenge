@@ -1,0 +1,22 @@
+{
+  "newComputer": "/computers/new",
+  "computerCreatedMessage": "Done !  Computer Terminator has been created",
+  "computerUpdatedMessage": "Done !  Computer Terminator has been updated",
+  "computerDeletedMessage": "Done !  Computer ACE has been deleted",
+  "emptyNameErrorMessage": "Failed to refine type : Predicate isEmpty() did not fail.",
+  "invalidDateErrorMessage": "Failed to decode date : java.time.format.DateTimeParseException: Text 'Invalid date' could not be parsed at index 0",
+  "computerName": "Terminator",
+  "updatedComputerName": "Liquid Terminator",
+  "createdComputer": "/computers/",
+  "nextPage": "computers?p=1",
+  "previousPage": "computers?p=0",
+  "homePage": "/computers",
+  "firstComputerNameInTableSortDesc": "ACE",
+  "firstComputerNameInTableSortAsc": "lenovo thinkpad z61p",
+  "firstIntroducedInTableSortDesc": "14 Oct 2011",
+  "firstIntroducedInTableSortAsc": "-",
+  "firstDiscontinuedInTableSortDesc": "-",
+  "firstDiscontinuedInTableSortAsc": "02 Mar 2011",
+  "firstCompanyInTableSortDesc": "Zemmix",
+  "firstCompanyInTableSortAsc": "-"
+}

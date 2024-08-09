@@ -1,0 +1,19 @@
+{
+  "name": "computer-database-technical-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "JavaScript",
+    "Cypress"
+  ],
+  "author": "Leonid Samohorodskiy",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.2"
+  }
+}
